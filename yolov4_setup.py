@@ -16,7 +16,7 @@ VARIABLE_LIST = [classes, max_batches, batch, subdivisions, width,
                  steps,scales, filters]
 
 DICT_ORIGIN = {"classes":80, 
-               "max_batches":8000,
+               "max_batches":2000,
                "batch":64,
                "subdivisions":16,
                "width":608,
